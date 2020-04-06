@@ -1,2 +1,4 @@
 rootProject.name='Retrofit01'
 include ':app'
+include ':data'
+include ':data:api'
